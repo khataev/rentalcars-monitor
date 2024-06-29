@@ -1,0 +1,15 @@
+{
+  "name": "rentalcars-monitor",
+  "version": "1.0.0",
+  "description": "Rentalcars.com monitor",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrey Khataev (khataev@yandex.ru)",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.15.0"
+  }
+}
